@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  OCVR
+
+  Created by Geemakun Storey on 2018-07-19.
+  Copyright © 2018 geemakunstorey@storeyofgee.com. All rights reserved.
+*/
+
+"Take photo of bus stop sign" = "Prendre une photo d'un panneau d'arrêt de bus";
+"OR" = "OU";
+"Enter the 4 digit bus stop number" = "Entrez le numéro d'arrêt de bus à 4 chiffres";
+"Map" = "Carte";
+"Done" = "Terminé";
+"Back" = "Arrière";
+"Stop" = "Arrêtez";
+"Refresh" = "Rafraîchir";
+"Refresh Limit" = "Limite d'actualisation";
+"OC Transpo times are only updated once every 30 seconds." = "Les horaires d'OC Transpo ne sont mis à jour qu'une fois toutes les 30 secondes.";
+"OK" = "D'accord";
+"Sent Successfully" = "Bien envoyé";
+"Unable to read image" = "Impossible de lire l'image";
+"Please try again later or enter 4 digit bus stop code." = "Veuillez réessayer plus tard ou entrer le code d'arrêt de bus à 4 chiffres.";
+"Please try again later." = "Veuillez réessayer plus tard.";
+"Unable to get bus schedules" = "Impossible d'obtenir les horaires de bus";
+"Whoops!" = "Oups";
+"Unable to process request." = "Impossible de traiter la demande.";
+"Error" = "Erreur";
+"Place 4 Digit Bus Stop Number Here" = "Placez le numéro d'arrêt de bus à 4 chiffres ici";
+"Cancel" = "Annuler";
+"Is this the bus stop number on the sign?" = "Est-ce le numéro de l'arrêt de bus sur le panneau?";

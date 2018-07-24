@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  OCVR
+
+  Created by Geemakun Storey on 2018-07-19.
+  Copyright © 2018 geemakunstorey@storeyofgee.com. All rights reserved.
+*/
+"CFBundleDisplayName" = "OCR d'Ottawa";
+"NSCameraUsageDescription" = "Nous devons avoir accès à votre caméra pour pouvoir prendre des photos des panneaux d'arrêt d'autobus";
+"NSLocationWhenInUseUsageDescription" = "Nous utilisons votre position pour afficher les arrêts de bus les plus proches de chez vous.";

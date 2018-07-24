@@ -1,0 +1,30 @@
+PODS:
+  - Cluster (2.2.6)
+  - HockeySDK (5.1.2):
+    - HockeySDK/DefaultLib (= 5.1.2)
+  - HockeySDK/DefaultLib (5.1.2)
+  - IQKeyboardManagerSwift (6.0.5)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Cluster
+  - HockeySDK
+  - IQKeyboardManagerSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Cluster
+    - HockeySDK
+    - IQKeyboardManagerSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Cluster: c4fe1d2fb34d00d88119fbd4ecc3c7819e047d40
+  HockeySDK: 38b7e2726af1ea86ae97ce4b5de33ab0817e3500
+  IQKeyboardManagerSwift: c14eca30f6001457d6ddf25e313f23fb6578c41c
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 5321af98604d929d2006c52e006ce7c4b8a77d2c
+
+COCOAPODS: 1.5.0

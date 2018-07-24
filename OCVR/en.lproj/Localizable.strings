@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  OCVR
+
+  Created by Geemakun Storey on 2018-07-19.
+  Copyright © 2018 geemakunstorey@storeyofgee.com. All rights reserved.
+*/
+
+"Take photo of bus stop sign" = "Take photo of bus stop sign";
+"OR" = "OR";
+"Enter the 4 digit bus stop number" = "Enter the 4 digit bus stop number";
+"Map" = "Map";
+"Done" = "Done";
+"Back" = "Back";
+"Stop" = "Stop";
+"Refresh" = "Refresh";
+"Refresh Limit" = "Refresh Limit";
+"OC Transpo times are only updated once every 30 seconds." = "OC Transpo times are only updated once every 30 seconds.";
+"OK" = "OK";
+"Sent Successfully" = "Sent Successfully";
+"Unable to read image" = "Unable to read image";
+"Please try again later or enter 4 digit bus stop code." = "Please try again later or enter 4 digit bus stop code.";
+"Please try again later." = "Please try again later.";
+"Unable to get bus schedules" = "Unable to get bus schedules";
+"Whoops!" = "Whoops";
+"Unable to process request." = "Unable to process request.";
+"Error" = "Error";
+"Place 4 Digit Bus Stop Number Here" = "Place 4 Digit Bus Stop Number Here";
+"Cancel" = "Cancel";
+"Is this the bus stop number on the sign?" = "Is this the bus stop number on the sign?";
